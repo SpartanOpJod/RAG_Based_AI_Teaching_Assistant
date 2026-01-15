@@ -137,10 +137,9 @@ python scripts/process_incoming.py
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 
-**Bhavya Patela**
-Data Scientist
+**Aryan Srivastava**
 
-📧 Email: bhavyapatela100@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/bhavya-patela-526a38322/)
+📧 Email: aryanopjod@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/aryan-codes)
 
 
