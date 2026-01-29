@@ -99,7 +99,7 @@ RAG-BASED-AI-ASSISTANT/
 
 1. Clone the repository :
 ```bash
-git clone git clone https://github.com/noturbhavya/Rag-based-ai
+git clone git clone https://github.com/SpartanOpJod/RAG_Based_AI_Teaching_Assistant
 ```
 
 2. Add your lecture videos into the video/ folder.
